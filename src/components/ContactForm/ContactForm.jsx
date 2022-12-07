@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import styles from './styles.module.css';
+import PropTypes from 'prop-types';
 
 class ContactForm extends Component {
   state = {
